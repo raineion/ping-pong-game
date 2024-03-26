@@ -1,8 +1,8 @@
-# Ping Pong Game
+# Ping Pong Game 🏓
 
 This is a simple ping pong game built using WebGL and JavaScript.
 
-## Installation
+## Installation 🧑‍💻
 
 1. Clone the repository:
 
@@ -12,20 +12,20 @@ This is a simple ping pong game built using WebGL and JavaScript.
 
 2. Open the `index.html` file in your web browser.
 
-## How to Play
+## How to Play ⛳️
 
 - Use the mouse or arrow keys to control the paddle.
 - The objective is to hit the ball with the paddle and prevent it from reaching the other side.
 - Each time the ball hits the paddle, the score increases.
 - The game ends when the ball reaches the other side.
 
-## Technologies Used
+## Technologies Used ⚙️
 
 - WebGL: A JavaScript API for rendering interactive 2D and 3D graphics within a web browser.
 - JavaScript: The programming language used to implement the game logic.
 - HTML/CSS: The markup and styling languages used for the game interface.
 
-## Contributing
+## Contributing 
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
